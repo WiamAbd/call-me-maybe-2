@@ -1,4 +1,4 @@
-from src.models import FunctionDefinition
+from src.parser import FunctionDefinition
 
 
 FUNCTION_SELECTION_PROMPT = '''

@@ -2,7 +2,7 @@ import json
 import math
 import time
 
-from src.models import (
+from src.parser import (
     FunctionDefinition,
 )
 

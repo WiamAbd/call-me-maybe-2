@@ -1,4 +1,4 @@
-from src.models import (
+from src.parser import (
     FunctionDefinition,
     FunctionCall,
     ReturnDefinition,

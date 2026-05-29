@@ -3,7 +3,7 @@ import sys
 
 from llm_sdk import Small_LLM_Model
 
-from src.models import (
+from src.parser import (
     load_function_definitions,
     load_prompts,
 )
